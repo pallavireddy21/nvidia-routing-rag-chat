@@ -1,0 +1,13 @@
+chainlit>=2.0
+llama-index-core>=0.12
+llama-index-llms-nvidia
+llama-index-embeddings-nvidia
+llama-index-postprocessor-nvidia-rerank
+llama-index-llms-perplexity
+llama-index-readers-file
+llama-index-vector-stores-milvus
+pymilvus
+milvus-lite
+python-dotenv
+fonttools
+llama-index-llms-openai-like
